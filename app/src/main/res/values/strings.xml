@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="header">My Modules</string>
+    <string name="text">Academic Year 2023 Semester 1</string>
+    <string name="btnBack">Go Back</string>
+
+    <string name="c346">C346 Mobile App Development</string>
+    <string name="c286">C286 Advanced Web App Development in .NET</string>
+    <string name="c303">C303 IT Project Management</string>
+    <string name="c300">C300 Project</string>
+
+    <string name="moduleCode">Module Code:</string>
+    <string name="moduleName">Module Name:</string>
+    <string name="AcYr">Academic Year:</string>
+    <string name="sem">Semester:</string>
+    <string name="modCredit">Module Credit:</string>
+    <string name="venue">Venue:</string>
+</resources>
